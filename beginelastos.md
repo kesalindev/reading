@@ -104,17 +104,20 @@ Elastos 源码下载完毕之后，打开 terminal 进入 ElastosRDKXXX/Setup �
 ---
 
 * Elastos控制台程序
+
     进入ElastosRDKXXX/Sources/Elastos/LibCore/tests/Quintet目录，编译运行该示例：
 执行 <code>emake</code> 编译，然后执行 <code>pd @</code>命令跳转到 target 目录，执行 <code>ls</code> 查看是否生成了 testQuintet 可执行文件；若是，执行<code>elcopy testQuintet</code> 命令将生成的可执行文件拷贝到设备中（将被拷贝到设备的/data/data/com.elastos.runtime/elastos目录下）。
 
     然后，执行<code>adb shell</code>进入adb shell 环境下，执行：<code>cd data/data/com.elastos.runtime/elastos</code> 命令进入该目录，然后执行 <code>ls</code>命令查看是否成功拷贝了 testQuintet 文件。输入命令 <code>./testQuintet</code> 执行程序，应该能看到该程序的输出。
 
 * 运行Elastos App
+
     进入ElastosRDKXXX/Sources/Elastos/Frameworks/Droid/DevSamples/ImageViewDemo 目录，执行 <code>emake</code>编译，然后执行 <code>pd @</code> 命令跳转到 target 目录，执行 <code>ls</code> 查看是否生成了 ImageViewDemo.epk 文件，然后执行 <code>elcopy ImageViewDemo.epk /data/app</code> 拷贝目录到设备中（将被拷贝到设备的/data/app目录下）。
 
     然后，重启设备，在系统应用程序界面上就能看到该 app，双击即可运行。
 
 * 运行Android App
+
     Elastos 系统兼容Android app，将现有的apk文件，通过执行 <code>elcopy XXX.apk /data/app</code> 拷贝目录到设备中（将被拷贝到设备的/data/app目录下）。
 
     然后，重启设备，在系统应用程序界面上就能看到该 app，双击即可运行。
