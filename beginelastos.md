@@ -21,7 +21,7 @@
 ### 下载源码
 ---
 
-ElastosID 设置好之后，并获得相应权限（请联系 <code>pei.xilong@kortide.com</code>）之后，就可以使用 git 下载源码了。Elastos 最新代码已不再支持模拟器开发，只支持在真实硬件设备上进行开发与调试。
+ElastosID 设置好之后，并获得相应权限（请联系 <code>pei.xilong@kortide.com</code>）之后，就可以使用 git 下载源码了。Elastos 最新代码已不再支持模拟器开发，只支持在真实硬件设备上进行开发与调试。请从这里[http://elastos.org/](http://elastos.org/)购买硬件设备 Lamobo M1。
 
 请在 terminal 中输入如下命令下载源码：(请将**YourElastosID**替换为你的 ElastosID)
 
