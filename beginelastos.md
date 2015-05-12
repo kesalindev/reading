@@ -15,6 +15,7 @@
 我们使用 git/gerrit 管理源码，所以你需要在 gerrit 上创建账户（ElastosID），请联系裴老师（<code>pei.xilong@kortide.com</code>）获取 ElastosID 邀请码，并参考如下链接完成 ElastosID 的创建。
 
 [Create Your ElastosID Account](http://elastos.org/wiki/index.php/Create_Your_ElastosID_Account)
+
 [Setting Your ElastosID Account in the Project Management Syetem](http://elastos.org/wiki/index.php/Setting_Your_ElastosID_Account_in_Management_Project_System)
 
 ### 下载源码
