@@ -79,7 +79,9 @@ Elastos 源码下载完毕之后，打开 terminal 进入 ElastosRDKXXX/Setup �
 
 * 普通编译：
     > emake （编译）
+
     > emake rebuild（重新编译）
+
     > emake clobber（清除 target 目录）
 
 * 并行编译：(速度快，推荐)
@@ -87,6 +89,7 @@ Elastos 源码下载完毕之后，打开 terminal 进入 ElastosRDKXXX/Setup �
 
 * 拷贝编译结果到设备上
     > eldrop（拷贝 Elastos 相关库）
+
     > eldrop java（拷贝 android 兼容相关库）
 
 * 重启设备，就能体验Elastos系统了。
@@ -120,7 +123,9 @@ Elastos 源码下载完毕之后，打开 terminal 进入 ElastosRDKXXX/Setup �
 ### Elastos
 ---
 问答系统：[http://elastos.org/q2a/index.php](http://elastos.org/q2a/index.php)
+
 讨论组：[http://elastos.org/groups/elastos/](http://elastos.org/groups/elastos/)
+
 开发文档：[http://elastos.org/elorg_common/ElastosManuals/ElastosManual/userguide.html](http://elastos.org/elorg_common/ElastosManuals/ElastosManual/userguide.html)
 
 ###  C++
@@ -131,8 +136,11 @@ C++ 书籍：
 [C++从入门到精通](http://www.douban.com/doulist/271354/) ，请尽量阅读所有该豆列中的书籍，尤其是 [《Effective C++》](http://book.douban.com/subject/1842426/)/[《Effective STL》](http://book.douban.com/subject/1792179/)/[《深度探索 C++ 对象模型》](http://book.douban.com/subject/1091086/)；由于 CAR 与 COM 的实现原理类似，请阅读[《COM技术内幕》](http://book.douban.com/subject/1231596/)的前八章，以了解 CAR 的实现思想。
 
 C++博客篇：
+
 [C++ 虚函数表解析](http://blog.csdn.net/haoel/article/details/1948051)
+
 [C++ 对象的内存布局（上）](http://blog.csdn.net/haoel/article/details/3081328)
+
 [C++ 对象的内存布局（下）](http://blog.csdn.net/haoel/article/details/3081385)
 
 ### Android
@@ -148,6 +156,9 @@ Android 博客篇：
 我们使用 git 进行代码管理，请阅读[《Pro Git》](http://book.douban.com/subject/3420144/)了解其使用方法以及运作机理。
 
 我们非常看重良好的编码习惯与素养，请阅读类似如下的书籍:
+
 [《重构-改善既有代码的设计》](http://book.douban.com/subject/1229923/)
+
 [《代码大全》](http://book.douban.com/subject/1477390/)
+
 [《代码整洁之道》](http://book.douban.com/subject/4199741/)
