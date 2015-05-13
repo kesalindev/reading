@@ -12,7 +12,7 @@
     ```
 
 * 自定义设置：
-选择菜单栏<code>Preferences -> Settings – More -> Syntax Specific – User</code>，在打开的文件中追加下面代码的最后四行，注意被接续行的行尾用<code>,</code>结尾：
+    选择菜单栏<code>Preferences -> Settings – More -> Syntax Specific – User</code>，在打开的文件中追加下面代码的最后四行，注意被接续行的行尾用<code>,</code>结尾：
     ``` shell
     {
     "color_scheme": "Packages/Color Scheme - Default/IDLE.tmTheme",
