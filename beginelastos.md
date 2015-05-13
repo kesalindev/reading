@@ -100,6 +100,12 @@ Elastos 源码下载完毕之后，打开 terminal 进入 ElastosRDKXXX/Setup �
 
     > pd（从target目录返回到之前目录）
 
+* CAR 编译工具ToolChains（只有更新CAR编译器时才需要进行此操作）
+    打开 terminal 进入 ElastosRDKXXX/Setup 目录，运行如下命令设置 arm 平台编译环境：
+    > source SetEnv.sh gcc_devtools
+
+    然后进入 ElastosRDKXXX/Sources/ToolChains 目录，执行<code>rls</code>进入 release 环境，然后执行<code>emake</code>编译该目录，编译完成之后，执行<code>pd @</code>跳转到 target 目录，执行 <code>cp lube PathToElastosRDKXXX/Build/Tools/</code>拷贝 CAR 编译工具 lube 到 Build/Tools 目录下。然后进入 ElastosRDKXXX/Sources 目录重新编译 Elastos 源码。
+
 ### 运行
 ---
 
