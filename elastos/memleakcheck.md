@@ -98,7 +98,11 @@
 
 * 在 terminal 上进入 <code>PathToElastosRDKXXX/DevDoc/DbgTools</code> 目录，使用脚本<code>loc_memleak.sh</code>进行内存检测。
     * 执行<code>./loc_memleak.sh -p</code> 开启内存调试开关
-    * 执行<code>./loc_memleak.sh -all</code>整体运行。在运行过程中，会出现用户交互。 3.1. Please run the target program, and then start the task(yes or no): 表示执行脚本后，需要运行一个目标程序，然后输入yes 3.2. Please input the target program's NAME(such as: SystemUI PinyinIME): 表示需要输入一个调试进程的名称，目的是获取该进程的id 3.3. Please run multiple times the target program, and then start the task(yes or no): 再次运行几次目标程序，输入yes 3.4. 脚本会将最后的结果输出到屏幕中，并且保存到一个文件中。
+    * 执行<code>./loc_memleak.sh -all</code>整体运行。在运行过程中，会出现用户交互。
+        * Please run the target program, and then start the task(yes or no): 表示执行脚本后，需要运行一个目标程序，然后输入yes
+        * Please input the target program's NAME(such as: SystemUI PinyinIME): 表示需要输入一个调试进程的名称，目的是获取该进程的id
+        * Please run multiple times the target program, and then start the task(yes or no): 再次运行几次目标程序，输入yes
+        * 脚本会将最后的结果输出到屏幕中，并且保存到一个文件中。
     * 脚本生成的文件：
         * first.txt 为首次运行目标程序生成的内存信息
         * second.txt 为再次运行多次目标程序生成的内存信息
