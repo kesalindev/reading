@@ -4,11 +4,11 @@
 这是我读过且觉得非常好的有关思维，心理，管理，历史，政治，经济，哲学，科技等多方面的书籍与记录片。入选的标准是实用，纯消遣类小说不在此列。
 
 何为实用？
-> 或能改善思维认知模式  
-> 或能陶冶情操  
-> 或能颠覆既有观念（对于系统地接受洗脑教育的国人尤其如此）  
-> 或能整合已有知识形成新的见解  
-> 或能增长见识  
+> 或能改善思维认知模式
+> 或能陶冶情操
+> 或能颠覆既有观念（对于系统地接受洗脑教育的国人尤其如此）
+> 或能整合已有知识形成新的见解
+> 或能增长见识
 
 我在豆瓣上建立了一个名为[心智成长](http://www.douban.com/doulist/1133232/)的豆列，在那上面写下了我的阅读心得，欢迎访问。
 
@@ -95,6 +95,7 @@
   * [谁会认错](http://book.douban.com/subject/3312040/)
   * [随机致富的傻瓜](http://book.douban.com/subject/1962687/)
   * [黑天鹅：如何应对不可知的未来](http://book.douban.com/subject/3025921/)
+  * [习惯的力量](http://book.douban.com/subject/20507212/)
 
 ----------
 
@@ -115,6 +116,7 @@
   * [中国大历史](http://book.douban.com/subject/1015699/)
   * [中国近代史-徐中约](http://book.douban.com/subject/2376486/)，请读繁体港版
   * [中国近代史](http://book.douban.com/subject/1060025/)
+  * [大门口的陌生人](http://book.douban.com/subject/25918704/)
   * [近代中国社会的新陈代谢](http://book.douban.com/subject/10825612/)
   * [戰爭與革命中的西南聯大](http://book.douban.com/subject/4822151/)，请读繁体台湾版
   * [毛泽东最后的革命](http://blog.tianya.cn/blogger/post_show.asp?BlogID=351212&PostID=26574314)，哈佛大学出版社出版，电子版
@@ -131,16 +133,13 @@
 
 ----------
 
-#### 欧洲史
+#### 外国史
   * [西洋史](http://book.douban.com/subject/4201719/)
   * [你一定爱读的极简欧洲史](http://book.douban.com/subject/5366248/)
   * [英国史（钱端升译）](http://book.douban.com/subject/11580186/)
   * [古拉格：一部历史](http://book.douban.com/subject/20503529/)
-
-----------
-
-#### 美洲史
   * [论美国的民主](http://book.douban.com/subject/1041385/)
+  * [现代世界史](http://book.douban.com/subject/25831575/)
 
 ----------
 
@@ -171,6 +170,7 @@
   * [儒家哲学](http://book.douban.com/subject/4097069/)
   * [先秦政治思想史](http://book.douban.com/subject/5990878/)
   * [论中国学术思想变迁之大势](http://book.douban.com/subject/1882032/)
+  * [清代学术概论](http://book.douban.com/subject/1005567/)
 
 ----------
 
@@ -249,6 +249,7 @@
 
 #### 其它
   * [黑猩猩的政治](http://book.douban.com/subject/3785326/)
+  * [洞穴奇案](http://book.douban.com/subject/3697494/)
 
 ----------
 
@@ -271,6 +272,7 @@
   * [红楼梦](http://book.douban.com/subject/1007305/)
   * [三国演义](http://book.douban.com/subject/1019568/)
   * [水浒传](http://book.douban.com/subject/2701443/)
+  * [水浒传金圣叹注评本](http://book.douban.com/subject/26411281/)
   * [大地三部曲](http://book.douban.com/subject/4067609/)
   * [呼兰河传](http://book.douban.com/subject/1060852/)
   * [寻路中国](http://book.douban.com/subject/5414391/)
@@ -295,6 +297,7 @@
 #### 其它
   * [天真的人类学家](http://book.douban.com/subject/1129216/)
   * [隐藏的逻辑](http://book.douban.com/subject/3766438/)
+  * [枪炮、病菌与钢铁](http://book.douban.com/subject/1813841/)
 
 ----------
 
@@ -309,6 +312,7 @@
   * [光环效应](http://book.douban.com/subject/2249558/)
   * [技术领导之路](http://book.douban.com/subject/4187478/)
   * [四步创业法](http://book.douban.com/subject/11516567/)
+  * [精益创业](http://book.douban.com/subject/10945606/)
 
 ----------
 
@@ -364,7 +368,9 @@
 ### 育儿
 * [怀孕圣经](http://book.douban.com/subject/10511318/)
 * [从出生到3岁](http://book.douban.com/subject/1967845/)
-* [0-6岁A+育儿法](http://book.douban.com/subject/11538005/)
+* [父母效能训练手册](http://book.douban.com/subject/3759379/)
+* [如何说孩子才会听，怎么听孩子才肯说](http://book.douban.com/subject/2275635/)
 * [孩子，把你的手给我](http://book.douban.com/subject/3533221/)
+* [非暴力沟通](http://book.douban.com/subject/3533221/)
 
 ---
