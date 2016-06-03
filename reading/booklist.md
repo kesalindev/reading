@@ -46,8 +46,6 @@
 * [一万小时天才理论](http://book.douban.com/subject/4726323/)
 * [异类](http://book.douban.com/subject/3688489/)
 * [全新思维](http://book.douban.com/subject/1799241/)
-* [低智商社会](http://book.douban.com/subject/4292120/)
-* [即战力](http://book.douban.com/subject/2128625/)
 
 ----------
 
@@ -74,7 +72,6 @@
   * [改变心理学的40项研究](http://book.douban.com/subject/1147347/)
   * [怪诞行为学](http://book.douban.com/subject/4929844/)
   * [乌合之众](http://book.douban.com/subject/1012611/)
-  * [马斯洛的智慧](http://book.douban.com/subject/1426702/)
 
 ----------
 
